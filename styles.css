@@ -1,0 +1,83 @@
+html { font-size: 100%; /* 1 */
+-webkit-text-size-adjust: 100%; /* 2 */
+-ms-text-size-adjust: 100%; /* 2 */ }
+html, button, input, select, textarea { font-family: 'Source Sans Pro', sans-serif; }
+body {
+display: flex;
+flex-direction: column;
+margin: 0;
+background-attachment: fixed;
+font-family: 'Source Sans Pro', sans-serif; background-color: #054266; }
+input:-webkit-autofill { -webkit-box-shadow: 0 0 0px 1000px white inset !important; }
+/* ==========================================================================
+Header - Bara
+========================================================================== */
+
+
+/* ==========================================================================
+Navigace - Monika
+========================================================================== */
+
+/* ==========================================================================
+Obsah - Pavla 
+========================================================================== */
+
+/* ==========================================================================
+Footer - Darca 
+========================================================================== */
+
+/* ==========================================================================
+Devices
+========================================================================== */
+@media only screen and (max-width: 1920px) and (min-width: 1440px){
+
+
+
+
+}
+
+
+@media only screen and (max-width: 1440px) and (min-width: 1280px){
+
+
+}
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+
+}
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+@media all and (min-width: 480px) and (max-width: 768px) {
+
+}
+@media all and (max-width: 480px) {
+
+}
+/* Portrait */
+@media screen and (orientation:portrait) {
+
+}
+/* Landscape */
+@media screen and (orientation:landscape) { /* Landscape styles here */ }
+/* CSSxisplays */
+/* Non-Retina */
+@media screen and (-webkit-max-device-pixel-ratio: 1) {
+}
+/* Retina */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+}
+/* iPhone Portrait */
+@media screen and (max-device-width: 480px) and (orientation:portrait) {
+}
+/* iPhone Landscape */
+@media screen and (max-device-width: 480px) and (orientation:landscape) {
+}
+/* iPad Portrait */
+@media screen and (min-device-width: 481px) and (orientation:portrait) {
+}
+/* iPad Landscape */
+
+
