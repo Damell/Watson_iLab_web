@@ -1,0 +1,10 @@
+Task 1
+Define a function sum() and a function multiply() that sums and multiplies (respectively) all the numbers in an array of numbers. For example, sum([1,2,3,4]) should return 10, and multiply([1,2,3,4]) should return 24.
+
+Task 2
+Represent a small bilingual lexicon as a Javascript object in the following fashion {"merry”:”veselé", "christmas”:"Vánoce", "and”:"a"} and use it to translate the text “Merry Christmas and Happy New Year".
+
+You can access object attributes by variable with this notation: myObject[word]. The variable word here for example contains string “christmas" and so it would return string "Vánoce" as a result. More info at https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Property_accessors.
+You might also find the following methods useful:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
